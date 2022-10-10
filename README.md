@@ -10,7 +10,7 @@
 
 ## Links
 
-- solution url [ Click me ]()
+- solution url [ Click me ](https://nicholasbarkote.github.io/showcase/)
 
 ## what i learned 
 
