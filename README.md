@@ -1,7 +1,7 @@
 # Home page
 
 
-- This is dashboard application]
+- This is Subscription page
 
 ## screenshot
 
