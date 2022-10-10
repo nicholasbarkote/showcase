@@ -164,6 +164,7 @@ img{
     .showcase h1{
         font-size: 1rem;
         margin-bottom: 0;
+        width: 100%;
         color: var(--light);
     }
     .showcase p{
