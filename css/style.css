@@ -110,7 +110,7 @@ img{
 
 /* Top box */
 .top-box{
-    background: var(--primary);
+    background: var(--light);
     display: grid;
     align-items: center;
     justify-content: center;
@@ -128,7 +128,7 @@ img{
 }
 
 .box{
-    background: var(--primary);
+    background: var(--light);
     text-align: center;
     padding: 1.5rem 2rem;
     box-shadow: var(--shadow);
